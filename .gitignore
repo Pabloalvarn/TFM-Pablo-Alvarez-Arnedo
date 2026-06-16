@@ -5,11 +5,5 @@ __pycache__/
 
 .DS_Store
 Thumbs.db
-
 .vscode/
 *.log
-
-data/raw/
-data/processed/
-
-results/models/
